@@ -1,11 +1,37 @@
 # python_transactions
-test
 
 
-This project focuses on everyday household items, detailing when and how these items were purchased. It showcases purchases made by various types of customers.
+Executive Summary
 
-The project uses bar graphs to display:
- * Categories: What kinds of items were bought.
- * Modes: How the items were purchased.
+This project involves an analysis of a daily financial transactions dataset to uncover trends, patterns, and valuable insights. The analysis process includes data cleaning, exploratory data analysis (EDA), and time series and correlation analysis. The final output is a comprehensive report with visualizations to inform decision-making and strategic planning.
+
+
+
+Key Findings and Analysis
+
+ * Data Overview: The dataset contains information on 2,461 transactions with 8 columns, including Date, Mode, Category, Subcategory, Note, Amount, Income/Expense, and Currency. All transactions are recorded in Indian Rupees (INR).
    
-Further analysis in the project chain uses bar graphs to show all sub-categories. The entire data set has been analyzed using box plots, scatter charts, and pie charts. After this data analysis, the project also reflects on and presents ways to optimize these types of transactions.
+ * Data Cleaning: The initial data inspection showed missing values in the Subcategory and Note columns. A project example outlines steps to handle missing values, correct data types, and remove duplicates to prepare the data for analysis.
+
+
+   
+ * Transaction Distribution:
+   
+   * Payment Modes: The most common payment modes were "Saving Bank account 1," "Cash," and "Credit Card," with "Saving Bank account 1" being the most frequent.
+     
+   * Categories: The top five transaction categories were "Food," "Transportation," "Household," "subscription," and "Other".
+     
+   * Income/Expense: The majority of the transactions were classified as "Expense," followed by "Transfer-Out" and "Income".
+
+
+     
+ * Transactional Amounts:
+   
+   * The distribution of transaction amounts is right-skewed, indicating that most transactions are of smaller values.
+     
+   * A boxplot analysis of the top categories shows that while "Food" is the most frequent category, categories like "Household" and "Transportation" have a wider range of transaction amounts, with some significant outliers. Similarly, the boxplot for subcategories reveals a wide spread of amounts, with Kirana and Mutual fund showing particularly high-value outliers.
+     
+ * Time Series Analysis: The project example suggests performing time series analysis to identify monthly and daily transaction trends, which can reveal seasonal patterns and peaks in certain months.
+   
+ * Correlation Analysis: A correlation heatmap can be used to analyze the relationships between different transaction categories, which helps in understanding how spending in one area might relate to another.
+   
