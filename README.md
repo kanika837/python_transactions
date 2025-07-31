@@ -34,4 +34,8 @@ Key Findings and Analysis
  * Time Series Analysis: The project example suggests performing time series analysis to identify monthly and daily transaction trends, which can reveal seasonal patterns and peaks in certain months.
    
  * Correlation Analysis: A correlation heatmap can be used to analyze the relationships between different transaction categories, which helps in understanding how spending in one area might relate to another.
-   
+
+
+
+   ![WhatsApp Image 2025-07-31 at 22 31 27_33b0cfa8](https://github.com/user-attachments/assets/6ae73fb7-929e-48ca-828d-2c5806988bd3)
+
