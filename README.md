@@ -24,6 +24,15 @@ Key Findings and Analysis
    * Income/Expense: The majority of the transactions were classified as "Expense," followed by "Transfer-Out" and "Income".
 
 
+
+![WhatsApp Image 2025-07-31 at 22 34 43_75cf723a](https://github.com/user-attachments/assets/9164337e-2f39-473a-bcd7-7bf7495c2815)
+
+
+
+
+     
+
+
      
  * Transactional Amounts:
    
