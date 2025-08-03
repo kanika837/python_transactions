@@ -1,13 +1,11 @@
 # python_transactions
 
 
-Executive Summary
-
 This project involves an analysis of a daily financial transactions dataset to uncover trends, patterns, and valuable insights. The analysis process includes data cleaning, exploratory data analysis (EDA), and time series and correlation analysis. The final output is a comprehensive report with visualizations to inform decision-making and strategic planning.
 
 
 
-Key Findings and Analysis
+# Key Findings and Analysis
 
  * Data Overview: The dataset contains information on 2,461 transactions with 8 columns, including Date, Mode, Category, Subcategory, Note, Amount, Income/Expense, and Currency. All transactions are recorded in Indian Rupees (INR).
    
@@ -15,7 +13,7 @@ Key Findings and Analysis
 
 
    
- * Transaction Distribution:
+   # Transaction Distribution:
    
    * Payment Modes: The most common payment modes were "Saving Bank account 1," "Cash," and "Credit Card," with "Saving Bank account 1" being the most frequent.
      
@@ -34,7 +32,7 @@ Key Findings and Analysis
 
 
      
- * Transactional Amounts:
+ #  Transactional Amounts:
    
    * The distribution of transaction amounts is right-skewed, indicating that most transactions are of smaller values.
      
