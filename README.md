@@ -8,7 +8,6 @@ This project involves an analysis of a daily financial transactions dataset to u
 
 
 
-
 # Key Findings and Analysis
 
  * Data Overview: The dataset contains information on 2,461 transactions with 8 columns, including Date, Mode, Category, Subcategory, Note, Amount, Income/Expense, and Currency. All transactions are recorded in Indian Rupees (INR).
