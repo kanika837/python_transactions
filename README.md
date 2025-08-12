@@ -3,6 +3,10 @@
 
 This project involves an analysis of a daily financial transactions dataset to uncover trends, patterns, and valuable insights. The analysis process includes data cleaning, exploratory data analysis (EDA), and time series and correlation analysis. The final output is a comprehensive report with visualizations to inform decision-making and strategic planning.
 
+![WhatsApp Image 2025-07-31 at 22 34 43_75cf723a](https://github.com/user-attachments/assets/9164337e-2f39-473a-bcd7-7bf7495c2815)
+
+
+
 
 
 # Key Findings and Analysis
@@ -21,9 +25,6 @@ This project involves an analysis of a daily financial transactions dataset to u
      
    * Income/Expense: The majority of the transactions were classified as "Expense," followed by "Transfer-Out" and "Income".
 
-
-
-![WhatsApp Image 2025-07-31 at 22 34 43_75cf723a](https://github.com/user-attachments/assets/9164337e-2f39-473a-bcd7-7bf7495c2815)
 
 
 
